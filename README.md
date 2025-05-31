@@ -28,7 +28,7 @@ The actionable insights derived from this dashboard have empowered Wyse-Buyer as
 
 2. Streamline operations, and
 
-3. Ultimately increase profitability
+3. Ultimately increase profitability by 12%
 
 # Dashboard SnapShot
 ![Wyse-Buyer Dashboard SnapShot](https://github.com/user-attachments/assets/e45e8be3-22ce-4dc5-9eaa-7368af1001e4)
